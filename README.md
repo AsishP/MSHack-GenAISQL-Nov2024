@@ -23,7 +23,7 @@
         # Windows  
         # For Command prompt: venv\Scripts\activate.bat
         # In PowerShell
-        venv\Scripts\Activate.ps1  
+        .venv\Scripts\Activate.ps1  
 
     c. pip install -r requirements.txt
 
